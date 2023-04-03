@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 import streamlit as st
 
-df=pd.read_csv('./content./dataset.csv')
+df=pd.read_csv('./dataset.csv')
 
 #dropping null values
 df.dropna(how='all',axis=1,inplace=True)

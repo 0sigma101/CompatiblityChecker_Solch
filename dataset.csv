@@ -354,133 +354,133 @@ bird,green-cheeked conure,10,f,dry,6000
 bird,green-cheeked conure,15,m,mild,6000
 bird,green-cheeked conure,25,f,continental,6000
 bird,green-cheeked conure,30,m,polar,6000
-turtle,red-eared slider,,f,tropical,3000
-turtle,red-eared slider,,m,dry,3000
-turtle,red-eared slider,,f,mild,3000
-turtle,red-eared slider,,m,continental,3000
-turtle,red-eared slider,,f,polar,3000
-turtle,african sideneck turtle,,m,tropical,6000
-turtle,african sideneck turtle,,f,dry,6000
-turtle,african sideneck turtle,,m,mild,6000
-turtle,african sideneck turtle,,f,continental,6000
-turtle,african sideneck turtle,,m,polar,6000
-turtle,eastern box turtle,,f,tropical,4000
-turtle,eastern box turtle,,m,dry,4000
-turtle,eastern box turtle,,f,mild,4000
-turtle,eastern box turtle,,m,continental,4000
-turtle,eastern box turtle,,f,polar,4000
-turtle,western painted turtle,,m,tropical,4000
-turtle,western painted turtle,,f,dry,4000
-turtle,western painted turtle,,m,mild,4000
-turtle,western painted turtle,,f,continental,4000
-turtle,western painted turtle,,m,polar,4000
-turtle,mississippi map turtle,,f,tropical,4000
-turtle,mississippi map turtle,,m,dry,4000
-turtle,mississippi map turtle,,f,mild,4000
-turtle,mississippi map turtle,,m,continental,4000
-turtle,mississippi map turtle,,f,polar,4000
-turtle,common musk turtle,,m,tropical,3000
-turtle,common musk turtle,,f,dry,3000
-turtle,common musk turtle,,m,mild,3000
-turtle,common musk turtle,,f,continental,3000
-turtle,common musk turtle,,m,polar,3000
-turtle,spotted turtle,,f,tropical,3000
-turtle,spotted turtle,,m,dry,3000
-turtle,spotted turtle,,f,mild,3000
-turtle,spotted turtle,,m,continental,3000
-turtle,spotted turtle,,f,polar,3000
-turtle,yellow-bellied slider,,m,tropical,2000
-turtle,yellow-bellied slider,,f,dry,2000
-turtle,yellow-bellied slider,,m,mild,2000
-turtle,yellow-bellied slider,,f,continental,2000
-turtle,yellow-bellied slider,,m,polar,2000
-rabbit,alaskan,,f,tropical,3000
-rabbit,alaskan,,m,dry,3000
-rabbit,alaskan,,f,mild,3000
-rabbit,alaskan,,m,continental,3000
-rabbit,alaskan,,f,polar,3000
-rabbit,american,,m,tropical,3000
-rabbit,american,,f,dry,3000
-rabbit,american,,m,mild,3000
-rabbit,american,,f,continental,3000
-rabbit,american,,m,polar,3000
-rabbit,american chinchilla,,f,tropical,4000
-rabbit,american chinchilla,,m,dry,4000
-rabbit,american chinchilla,,f,mild,4000
-rabbit,american chinchilla,,m,continental,4000
-rabbit,american chinchilla,,f,polar,4000
-rabbit,american sable,,m,tropical,3000
-rabbit,american sable,,f,dry,3000
-rabbit,american sable,,m,mild,3000
-rabbit,american sable,,f,continental,3000
-rabbit,american sable,,m,polar,3000
-rabbit,angora,,f,tropical,5000
-rabbit,angora,,m,dry,5000
-rabbit,angora,,f,mild,5000
-rabbit,angora,,m,continental,5000
-rabbit,angora,,f,polar,5000
-rabbit,argente rabbits,,m,tropical,3000
-rabbit,argente rabbits,,f,dry,3000
-rabbit,argente rabbits,,m,mild,3000
-rabbit,argente rabbits,,f,continental,3000
-rabbit,argente rabbits,,m,polar,3000
-rabbit,belgian hare,,f,tropical,3000
-rabbit,belgian hare,,m,dry,3000
-rabbit,belgian hare,,f,mild,3000
-rabbit,belgian hare,,m,continental,3000
-rabbit,belgian hare,,f,polar,3000
-rabbit,blanc de hotot,,m,tropical,3000
-rabbit,blanc de hotot,,f,dry,3000
-rabbit,blanc de hotot,,m,mild,3000
-rabbit,blanc de hotot,,f,continental,3000
-rabbit,blanc de hotot,,m,polar,3000
-rabbit,britannia petite,,f,tropical,4000
-rabbit,britannia petite,,m,dry,4000
-rabbit,britannia petite,,f,mild,4000
-rabbit,britannia petite,,m,continental,4000
-rabbit,britannia petite,,f,polar,4000
-rabbit,californian,,m,tropical,4000
-rabbit,californian,,f,dry,4000
-rabbit,californian,,m,mild,4000
-rabbit,californian,,f,continental,4000
-rabbit,californian,,m,polar,4000
-rabbit,checkered giant,,f,tropical,4000
-rabbit,checkered giant,,m,dry,4000
-rabbit,checkered giant,,f,mild,4000
-rabbit,checkered giant,,m,continental,4000
-rabbit,checkered giant,,f,polar,4000
-rabbit,chinchilla,,m,tropical,4000
-rabbit,chinchilla,,f,dry,4000
-rabbit,chinchilla,,m,mild,4000
-rabbit,chinchilla,,f,continental,4000
-rabbit,chinchilla,,m,polar,4000
-rabbit,cinnamon,,f,tropical,3000
-rabbit,cinnamon,,m,dry,3000
-rabbit,cinnamon,,f,mild,3000
-rabbit,cinnamon,,m,continental,3000
-rabbit,cinnamon,,f,polar,3000
-rabbit,continental,,m,tropical,5000
-rabbit,continental,,f,dry,5000
-rabbit,continental,,m,mild,5000
-rabbit,continental,,f,continental,5000
-rabbit,continental,,m,polar,5000
-rabbit,crème d'argent,,f,tropical,5000
-rabbit,crème d'argent,,m,dry,5000
-rabbit,crème d'argent,,f,mild,5000
-rabbit,crème d'argent,,m,continental,5000
-rabbit,crème d'argent,,f,polar,5000
-rabbit,dutch,,m,tropical,5000
-rabbit,dutch,,f,dry,5000
-rabbit,dutch,,m,mild,5000
-rabbit,dutch,,f,continental,5000
-rabbit,dutch,,m,polar,5000
-rabbit,dwarf hotot,,f,tropical,4000
-rabbit,dwarf hotot,,m,dry,4000
-rabbit,dwarf hotot,,f,mild,4000
-rabbit,dwarf hotot,,m,continental,4000
-rabbit,dwarf hotot,,f,polar,4000
-rabbit,english lop,,m,tropical,4000
-rabbit,english lop,,f,dry,4000
-rabbit,english lop,,m,mild,4000
-rabbit,english lop,,f,continental,4000
-rabbit,english lop,,m,polar,4000
+turtle,red-eared slider,10,f,tropical,3000
+turtle,red-eared slider,15,m,dry,3000
+turtle,red-eared slider,20,f,mild,3000
+turtle,red-eared slider,25,m,continental,3000
+turtle,red-eared slider,40,f,polar,3000
+turtle,african sideneck turtle,10,m,tropical,6000
+turtle,african sideneck turtle,20,f,dry,6000
+turtle,african sideneck turtle,30,m,mild,6000
+turtle,african sideneck turtle,40,f,continental,6000
+turtle,african sideneck turtle,50,m,polar,6000
+turtle,eastern box turtle,10,f,tropical,4000
+turtle,eastern box turtle,20,m,dry,4000
+turtle,eastern box turtle,30,f,mild,4000
+turtle,eastern box turtle,40,m,continental,4000
+turtle,eastern box turtle,50,f,polar,4000
+turtle,western painted turtle,10,m,tropical,4000
+turtle,western painted turtle,20,f,dry,4000
+turtle,western painted turtle,30,m,mild,4000
+turtle,western painted turtle,40,f,continental,4000
+turtle,western painted turtle,50,m,polar,4000
+turtle,mississippi map turtle,10,f,tropical,4000
+turtle,mississippi map turtle,20,m,dry,4000
+turtle,mississippi map turtle,30,f,mild,4000
+turtle,mississippi map turtle,40,m,continental,4000
+turtle,mississippi map turtle,50,f,polar,4000
+turtle,common musk turtle,10,m,tropical,3000
+turtle,common musk turtle,20,f,dry,3000
+turtle,common musk turtle,30,m,mild,3000
+turtle,common musk turtle,40,f,continental,3000
+turtle,common musk turtle,50,m,polar,3000
+turtle,spotted turtle,10,f,tropical,3000
+turtle,spotted turtle,20,m,dry,3000
+turtle,spotted turtle,30,f,mild,3000
+turtle,spotted turtle,40,m,continental,3000
+turtle,spotted turtle,50,f,polar,3000
+turtle,yellow-bellied slider,10,m,tropical,2000
+turtle,yellow-bellied slider,20,f,dry,2000
+turtle,yellow-bellied slider,30,m,mild,2000
+turtle,yellow-bellied slider,40,f,continental,2000
+turtle,yellow-bellied slider,50,m,polar,2000
+rabbit,alaskan,1,f,tropical,3000
+rabbit,alaskan,3,m,dry,3000
+rabbit,alaskan,6,f,mild,3000
+rabbit,alaskan,7,m,continental,3000
+rabbit,alaskan,10,f,polar,3000
+rabbit,american,2,m,tropical,3000
+rabbit,american,3,f,dry,3000
+rabbit,american,5,m,mild,3000
+rabbit,american,7,f,continental,3000
+rabbit,american,8,m,polar,3000
+rabbit,american chinchilla,2,f,tropical,4000
+rabbit,american chinchilla,3,m,dry,4000
+rabbit,american chinchilla,5,f,mild,4000
+rabbit,american chinchilla,7,m,continental,4000
+rabbit,american chinchilla,8,f,polar,4000
+rabbit,american sable,2,m,tropical,3000
+rabbit,american sable,3,f,dry,3000
+rabbit,american sable,5,m,mild,3000
+rabbit,american sable,7,f,continental,3000
+rabbit,american sable,8,m,polar,3000
+rabbit,angora,1,f,tropical,5000
+rabbit,angora,3,m,dry,5000
+rabbit,angora,6,f,mild,5000
+rabbit,angora,7,m,continental,5000
+rabbit,angora,10,f,polar,5000
+rabbit,argente rabbits,1,m,tropical,3000
+rabbit,argente rabbits,3,f,dry,3000
+rabbit,argente rabbits,6,m,mild,3000
+rabbit,argente rabbits,7,f,continental,3000
+rabbit,argente rabbits,10,m,polar,3000
+rabbit,belgian hare,1,f,tropical,3000
+rabbit,belgian hare,2,m,dry,3000
+rabbit,belgian hare,3,f,mild,3000
+rabbit,belgian hare,4,m,continental,3000
+rabbit,belgian hare,5,f,polar,3000
+rabbit,blanc de hotot,1,m,tropical,3000
+rabbit,blanc de hotot,3,f,dry,3000
+rabbit,blanc de hotot,6,m,mild,3000
+rabbit,blanc de hotot,7,f,continental,3000
+rabbit,blanc de hotot,10,m,polar,3000
+rabbit,britannia petite,1,f,tropical,4000
+rabbit,britannia petite,3,m,dry,4000
+rabbit,britannia petite,6,f,mild,4000
+rabbit,britannia petite,7,m,continental,4000
+rabbit,britannia petite,10,f,polar,4000
+rabbit,californian,1,m,tropical,4000
+rabbit,californian,3,f,dry,4000
+rabbit,californian,6,m,mild,4000
+rabbit,californian,7,f,continental,4000
+rabbit,californian,10,m,polar,4000
+rabbit,checkered giant,1,f,tropical,4000
+rabbit,checkered giant,3,m,dry,4000
+rabbit,checkered giant,6,f,mild,4000
+rabbit,checkered giant,7,m,continental,4000
+rabbit,checkered giant,10,f,polar,4000
+rabbit,chinchilla,1,m,tropical,4000
+rabbit,chinchilla,2,f,dry,4000
+rabbit,chinchilla,3,m,mild,4000
+rabbit,chinchilla,4,f,continental,4000
+rabbit,chinchilla,5,m,polar,4000
+rabbit,cinnamon,1,f,tropical,3000
+rabbit,cinnamon,2,m,dry,3000
+rabbit,cinnamon,3,f,mild,3000
+rabbit,cinnamon,4,m,continental,3000
+rabbit,cinnamon,5,f,polar,3000
+rabbit,continental,1,m,tropical,5000
+rabbit,continental,2,f,dry,5000
+rabbit,continental,3,m,mild,5000
+rabbit,continental,4,f,continental,5000
+rabbit,continental,5,m,polar,5000
+rabbit,creme d'argent,1,f,tropical,5000
+rabbit,creme d'argent,3,m,dry,5000
+rabbit,creme d'argent,6,f,mild,5000
+rabbit,creme d'argent,7,m,continental,5000
+rabbit,creme d'argent,9,f,polar,5000
+rabbit,dutch,1,m,tropical,5000
+rabbit,dutch,3,f,dry,5000
+rabbit,dutch,5,m,mild,5000
+rabbit,dutch,6,f,continental,5000
+rabbit,dutch,8,m,polar,5000
+rabbit,dwarf hotot,1,f,tropical,4000
+rabbit,dwarf hotot,3,m,dry,4000
+rabbit,dwarf hotot,6,f,mild,4000
+rabbit,dwarf hotot,7,m,continental,4000
+rabbit,dwarf hotot,10,f,polar,4000
+rabbit,english lop,1,m,tropical,4000
+rabbit,english lop,3,f,dry,4000
+rabbit,english lop,5,m,mild,4000
+rabbit,english lop,6,f,continental,4000
+rabbit,english lop,8,m,polar,4000

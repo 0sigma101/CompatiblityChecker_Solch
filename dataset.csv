@@ -1,0 +1,311 @@
+PET,BREED,AGE,GENDER,,LOCATION,EXPENSES
+dog,german shepherd,1,m,,tropical,15000
+dog,german shepherd,4,f,,dry,15000
+dog,german shepherd,7,m,,mild,15000
+dog,german shepherd,10,f,,continental,15000
+dog,german shepherd,13,m,,polar,15000
+dog,bulldog,1,f,,tropical,25000
+dog,bulldog,4,m,,dry,25000
+dog,bulldog,7,f,,mild,25000
+dog,bulldog,9,m,,continental,25000
+dog,bulldog,12,f,,polar,25000
+dog,labrador retriever,1,m,,tropical,4000
+dog,labrador retriever,4,f,,dry,4000
+dog,labrador retriever,7,m,,mild,4000
+dog,labrador retriever,9,f,,continental,4000
+dog,labrador retriever,12,m,,polar,4000
+dog,golden retriever,1,f,,tropical,10000
+dog,golden retriever,4,m,,dry,10000
+dog,golden retriever,7,f,,mild,10000
+dog,golden retriever,9,m,,continental,10000
+dog,golden retriever,12,f,,polar,10000
+dog,french bulldog,1,m,,tropical,25000
+dog,french bulldog,4,f,,dry,25000
+dog,french bulldog,7,m,,mild,25000
+dog,french bulldog,10,f,,continental,25000
+dog,french bulldog,14,m,,polar,25000
+dog,siberian husky,1,f,,tropical,5000
+dog,siberian husky,5,m,,dry,5000
+dog,siberian husky,9,f,,mild,5000
+dog,siberian husky,12,m,,continental,5000
+dog,siberian husky,15,f,,polar,5000
+dog,poodle,1,m,,tropical,8000
+dog,poodle,5,f,,dry,8000
+dog,poodle,9,m,,mild,8000
+dog,poodle,12,f,,continental,8000
+dog,poodle,15,m,,polar,8000
+dog,chihuahua,1,f,,tropical,5000
+dog,chihuahua,5,m,,dry,5000
+dog,chihuahua,10,f,,mild,5000
+dog,chihuahua,15,m,,continental,5000
+dog,chihuahua,20,f,,polar,5000
+dog,border collie,1,m,,tropical,6000
+dog,border collie,4,f,,dry,6000
+dog,border collie,8,m,,mild,6000
+dog,border collie,12,f,,continental,6000
+dog,border collie,17,m,,polar,6000
+dog,afghan hound,1,f,,tropical,7000
+dog,afghan hound,4,m,,dry,7000
+dog,afghan hound,7,f,,mild,7000
+dog,afghan hound,10,m,,continental,7000
+dog,afghan hound,14,f,,polar,7000
+dog,dachshund,1,m,,tropical,10000
+dog,dachshund,4,f,,dry,10000
+dog,dachshund,8,m,,mild,10000
+dog,dachshund,12,f,,continental,10000
+dog,dachshund,16,m,,polar,10000
+dog,pomeranian,1,f,,tropical,4000
+dog,pomeranian,4,m,,dry,4000
+dog,pomeranian,8,f,,mild,4000
+dog,pomeranian,12,m,,continental,4000
+dog,pomeranian,16,f,,polar,4000
+dog,basset hound,1,m,,tropical,3500
+dog,basset hound,4,f,,dry,3500
+dog,basset hound,7,m,,mild,3500
+dog,basset hound,9,f,,continental,3500
+dog,basset hound,12,m,,polar,3500
+dog,goldendoodle,1,f,,tropical,5000
+dog,goldendoodle,4,m,,dry,5000
+dog,goldendoodle,8,f,,mild,5000
+dog,goldendoodle,12,m,,continental,5000
+dog,goldendoodle,15,f,,polar,5000
+dog,dalmatian,1,m,,tropical,4000
+dog,dalmatian,4,f,,dry,4000
+dog,dalmatian,7,m,,mild,4000
+dog,dalmatian,10,f,,continental,4000
+dog,dalmatian,13,m,,polar,4000
+dog,samoyed,1,f,,tropical,9000
+dog,samoyed,4,m,,dry,9000
+dog,samoyed,7,f,,mild,9000
+dog,samoyed,10,m,,continental,9000
+dog,samoyed,14,f,,polar,9000
+dog,bullmastif,1,m,,tropical,6000
+dog,bullmastif,3,f,,dry,6000
+dog,bullmastif,5,m,,mild,6000
+dog,bullmastif,7,f,,continental,6000
+dog,bullmastif,10,m,,polar,6000
+dog,shih tzu,1,f,,tropical,4000
+dog,shih tzu,4,m,,dry,4000
+dog,shih tzu,8,f,,mild,4000
+dog,shih tzu,12,m,,continental,4000
+dog,shih tzu,16,f,,polar,4000
+dog,yorkshire terrier,1,m,,tropical,7000
+dog,yorkshire terrier,4,f,,dry,7000
+dog,yorkshire terrier,8,m,,mild,7000
+dog,yorkshire terrier,12,f,,continental,7000
+dog,yorkshire terrier,16,m,,polar,7000
+dog,maltese dog,1,f,,tropical,6000
+dog,maltese dog,4,m,,dry,6000
+dog,maltese dog,8,f,,mild,6000
+dog,maltese dog,12,m,,continental,6000
+dog,maltese dog,15,f,,polar,6000
+dog,american bully,1,m,,tropical,6000
+dog,american bully,4,f,,dry,6000
+dog,american bully,7,m,,mild,6000
+dog,american bully,10,f,,continental,6000
+dog,american bully,13,m,,polar,6000
+dog,dobermann,1,f,,tropical,6000
+dog,dobermann,4,m,,dry,6000
+dog,dobermann,7,f,,mild,6000
+dog,dobermann,10,m,,continental,6000
+dog,dobermann,13,f,,polar,6000
+dog,newfoundland dog,1,m,,tropical,13000
+dog,newfoundland dog,3,f,,dry,13000
+dog,newfoundland dog,6,m,,mild,13000
+dog,newfoundland dog,8,f,,continental,13000
+dog,newfoundland dog,10,m,,polar,13000
+dog,pembroke welsh corgi,1,f,,tropical,6000
+dog,pembroke welsh corgi,4,m,,dry,6000
+dog,pembroke welsh corgi,8,f,,mild,6000
+dog,pembroke welsh corgi,12,m,,continental,6000
+dog,pembroke welsh corgi,15,f,,polar,6000
+dog,boston terrier,1,m,,tropical,5000
+dog,boston terrier,4,f,,dry,5000
+dog,boston terrier,8,m,,mild,5000
+dog,boston terrier,12,f,,continental,5000
+dog,boston terrier,15,m,,polar,5000
+dog,black russian terrier,1,f,,tropical,7000
+dog,black russian terrier,3,m,,dry,7000
+dog,black russian terrier,6,f,,mild,7000
+dog,black russian terrier,9,m,,continental,7000
+dog,black russian terrier,11,f,,polar,7000
+dog,havanese,1,m,,tropical,4000
+dog,havanese,4,f,,dry,4000
+dog,havanese,8,m,,mild,4000
+dog,havanese,12,f,,continental,4000
+dog,havanese,16,m,,polar,4000
+dog,maltipoo,1,f,,tropical,6000
+dog,maltipoo,4,m,,dry,6000
+dog,maltipoo,8,f,,mild,6000
+dog,maltipoo,12,m,,continental,6000
+dog,maltipoo,15,f,,polar,6000
+dog,great dane,1,m,,tropical,9000
+dog,great dane,3,f,,dry,9000
+dog,great dane,6,m,,mild,9000
+dog,great dane,8,f,,continental,9000
+dog,great dane,10,m,,polar,9000
+dog,rottweiler,1,f,,tropical,9000
+dog,rottweiler,3,m,,dry,9000
+dog,rottweiler,6,f,,mild,9000
+dog,rottweiler,8,m,,continental,9000
+dog,rottweiler,10,f,,polar,9000
+cat,siamese cat,1,m,,tropical,5000
+cat,siamese cat,5,f,,dry,5000
+cat,siamese cat,10,m,,mild,5000
+cat,siamese cat,15,f,,continental,5000
+cat,siamese cat,20,m,,polar,5000
+cat,british shorthair,1,f,,tropical,5000
+cat,british shorthair,5,m,,dry,5000
+cat,british shorthair,10,f,,mild,5000
+cat,british shorthair,15,m,,continental,5000
+cat,british shorthair,20,f,,polar,5000
+cat,maine coon,1,m,,tropical,5000
+cat,maine coon,4,f,,dry,5000
+cat,maine coon,8,m,,mild,5000
+cat,maine coon,12,f,,continental,5000
+cat,maine coon,15,m,,polar,5000
+cat,persian cat,1,f,,tropical,4000
+cat,persian cat,5,m,,dry,4000
+cat,persian cat,10,f,,mild,4000
+cat,persian cat,15,m,,continental,4000
+cat,persian cat,20,f,,polar,4000
+cat,ragdoll,1,m,,tropical,4000
+cat,ragdoll,4,f,,dry,4000
+cat,ragdoll,9,m,,mild,4000
+cat,ragdoll,14,f,,continental,4000
+cat,ragdoll,18,m,,polar,4000
+cat,sphynx cat,1,f,,tropical,6000
+cat,sphynx cat,3,m,,dry,6000
+cat,sphynx cat,7,f,,mild,6000
+cat,sphynx cat,11,m,,continental,6000
+cat,sphynx cat,14,f,,polar,6000
+cat,american shorthair,1,m,,tropical,6000
+cat,american shorthair,5,f,,dry,6000
+cat,american shorthair,10,m,,mild,6000
+cat,american shorthair,15,f,,continental,6000
+cat,american shorthair,20,m,,polar,6000
+cat,abyssinian,1,f,,tropical,5000
+cat,abyssinian,5,m,,dry,5000
+cat,abyssinian,8,f,,mild,5000
+cat,abyssinian,12,m,,continental,5000
+cat,abyssinian,15,f,,polar,5000
+cat,exotic shorthair,1,m,,tropical,5000
+cat,exotic shorthair,3,f,,dry,5000
+cat,exotic shorthair,6,m,,mild,5000
+cat,exotic shorthair,9,f,,continental,5000
+cat,exotic shorthair,11,m,,polar,5000
+cat,scottish fold,1,f,,tropical,6000
+cat,scottish fold,5,m,,dry,6000
+cat,scottish fold,8,f,,mild,6000
+cat,scottish fold,12,m,,continental,6000
+cat,scottish fold,15,f,,polar,6000
+cat,burmese cat,1,m,,tropical,6000
+cat,burmese cat,7,f,,dry,6000
+cat,burmese cat,14,m,,mild,6000
+cat,burmese cat,20,f,,continental,6000
+cat,burmese cat,25,m,,polar,6000
+cat,birman,1,f,,tropical,6000
+cat,birman,4,m,,dry,6000
+cat,birman,8,f,,mild,6000
+cat,birman,12,m,,continental,6000
+cat,birman,16,f,,polar,6000
+cat,bombay cat,1,m,,tropical,5000
+cat,bombay cat,5,f,,dry,5000
+cat,bombay cat,10,m,,mild,5000
+cat,bombay cat,15,f,,continental,5000
+cat,bombay cat,20,m,,polar,5000
+cat,siberian cat,1,f,,tropical,6000
+cat,siberian cat,3,m,,dry,6000
+cat,siberian cat,6,f,,mild,6000
+cat,siberian cat,8,m,,continental,6000
+cat,siberian cat,10,f,,polar,6000
+cat,norwegian forest cat,1,m,,tropical,6000
+cat,norwegian forest cat,4,f,,dry,6000
+cat,norwegian forest cat,8,m,,mild,6000
+cat,norwegian forest cat,12,f,,continental,6000
+cat,norwegian forest cat,16,m,,polar,6000
+cat,munchkin cat,1,f,,tropical,4000
+cat,munchkin cat,3,m,,dry,4000
+cat,munchkin cat,9,f,,mild,4000
+cat,munchkin cat,12,m,,continental,4000
+cat,munchkin cat,15,f,,polar,4000
+cat,devon rex,1,m,,tropical,8000
+cat,devon rex,3,f,,dry,8000
+cat,devon rex,6,m,,mild,8000
+cat,devon rex,9,f,,continental,8000
+cat,devon rex,13,m,,polar,8000
+cat,russian blue,1,f,,tropical,4000
+cat,russian blue,5,m,,dry,4000
+cat,russian blue,10,f,,mild,4000
+cat,russian blue,15,m,,continental,4000
+cat,russian blue,20,f,,polar,4000
+cat,american curl,1,m,,tropical,4000
+cat,american curl,3,f,,dry,4000
+cat,american curl,6,m,,mild,4000
+cat,american curl,9,f,,continental,4000
+cat,american curl,13,m,,polar,4000
+cat,american bobtail,1,f,,tropical,5000
+cat,american bobtail,4,m,,dry,5000
+cat,american bobtail,8,f,,mild,5000
+cat,american bobtail,12,m,,continental,5000
+cat,american bobtail,18,f,,polar,5000
+cat,oriental shorthair,1,m,,tropical,6000
+cat,oriental shorthair,3,f,,dry,6000
+cat,oriental shorthair,6,m,,mild,6000
+cat,oriental shorthair,9,f,,continental,6000
+cat,oriental shorthair,12,m,,polar,6000
+cat,balinese cat,1,f,,tropical,7000
+cat,balinese cat,5,m,,dry,7000
+cat,balinese cat,10,f,,mild,7000
+cat,balinese cat,15,m,,continental,7000
+cat,balinese cat,22,f,,polar,7000
+cat,charteaux,1,m,,tropical,8000
+cat,charteaux,3,f,,dry,8000
+cat,charteaux,5,m,,mild,8000
+cat,charteaux,8,f,,continental,8000
+cat,charteaux,13,m,,polar,8000
+cat,turkish angora,1,f,,tropical,6000
+cat,turkish angora,4,m,,dry,6000
+cat,turkish angora,8,f,,mild,6000
+cat,turkish angora,12,m,,continental,6000
+cat,turkish angora,18,f,,polar,6000
+cat,japanese bobtail,1,m,,tropical,4000
+cat,japanese bobtail,3,f,,dry,4000
+cat,japanese bobtail,5,m,,mild,4000
+cat,japanese bobtail,8,f,,continental,4000
+cat,japanese bobtail,13,m,,polar,4000
+cat,manx cat,1,f,,tropical,5000
+cat,manx cat,3,m,,dry,5000
+cat,manx cat,5,f,,mild,5000
+cat,manx cat,10,m,,continental,5000
+cat,manx cat,14,f,,polar,5000
+cat,ragamuffin,1,m,,tropical,5000
+cat,ragamuffin,6,f,,dry,5000
+cat,ragamuffin,10,m,,mild,5000
+cat,ragamuffin,14,f,,continental,5000
+cat,ragamuffin,18,m,,polar,5000
+cat,somali cat,1,f,,tropical,6000
+cat,somali cat,3,m,,dry,6000
+cat,somali cat,6,f,,mild,6000
+cat,somali cat,9,m,,continental,6000
+cat,somali cat,15,f,,polar,6000
+cat,havana brown,1,m,,tropical,7000
+cat,havana brown,3,f,,dry,7000
+cat,havana brown,5,m,,mild,7000
+cat,havana brown,8,f,,continental,7000
+cat,havana brown,13,m,,polar,7000
+cat,burmila,1,f,,tropical,8000
+cat,burmila,3,m,,dry,8000
+cat,burmila,5,f,,mild,8000
+cat,burmila,8,m,,continental,8000
+cat,burmila,12,f,,polar,8000
+cat,colorprint shorthair,1,m,,tropical,7000
+cat,colorprint shorthair,3,f,,dry,7000
+cat,colorprint shorthair,5,m,,mild,7000
+cat,colorprint shorthair,8,f,,continental,7000
+cat,colorprint shorthair,12,m,,polar,7000
+cat,australian mist,1,f,,tropical,6000
+cat,australian mist,3,m,,dry,6000
+cat,australian mist,6,f,,mild,6000
+cat,australian mist,9,m,,continental,6000
+cat,australian mist,15,f,,polar,6000

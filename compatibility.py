@@ -1,13 +1,14 @@
 import pandas as pd
 import csv
 import streamlit as st
+from PIL import Image
+
+favicon = Image.open('favicon.ico')
+st.set_page_config(page_title='Compatibility Checker', page_icon = favicon, initial_sidebar_state = 'auto')
 
 df=pd.read_csv('./dataset.csv')
-
 #dropping null values
 df.dropna(how='all',axis=1,inplace=True)
-
-
 
 #reading the user input
 pettype=st.selectbox('type of pet:',list(df['PET'].unique()))
